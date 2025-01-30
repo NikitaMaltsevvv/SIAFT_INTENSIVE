@@ -3,4 +3,5 @@ submission.zip
 submission.csv 
 .ipynb_checkpoints/baseline-checkpoint.ipynb 
 .ipynb_checkpoints 
-lectures/.ipynb_checkpoints 
+lectures/*
+*.html
