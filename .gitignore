@@ -4,6 +4,5 @@ submission.csv
 .ipynb_checkpoints/baseline-checkpoint.ipynb 
 .ipynb_checkpoints 
 lectures/*
-*.html
 *processed*
 *catboost*
