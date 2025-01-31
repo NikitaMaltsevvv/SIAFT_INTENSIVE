@@ -5,3 +5,5 @@ submission.csv
 .ipynb_checkpoints 
 lectures/*
 *.html
+*processed*
+*catboost*
